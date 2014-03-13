@@ -5,14 +5,14 @@ My design work 001
 I am building a page to introduce books I like. The books are about designing.
 
 ###Step 2: Content inventory
-First, I would like to write down all items to be show off on the page.  
+First, I would like to write down all items to be shown off on the page.  
 
 - Title
 - Books info (title, cover image, author's name, comments including commentator)
 - Quote about designing
 - My name & My avatar (John Wu & avatar: webmaster@leapoahead.com)
 
-Because it is hard to collect the authors' facebook/twitter/email address, so we will just use placeholder for those information. The detailed content describtions will be in [content.md](content.md).
+The detailed content describtions will be in [content.md](content.md).
 
 ###Step 3: Wireframes
 I created wireframes with [OmniGraffle](www.omnigroup.com/omnigraffle/), which is a great tool to work with. The wireframe image can be found [here](wireframe/wireframe.jpg).
