@@ -5,7 +5,8 @@ _Recommanded books on design_
 Everything has been composed, just not yet written down. - _LETTER TO LEOPOLD MOZART [1780]_
 
 ##3 My info
-[Here is my avatar url](http://www.gravatar.com/avatar/1380392c951c5d3edc96146b1d5b877b.png)
+[Here is my avatar url](http://www.gravatar.com/avatar/1380392c951c5d3edc96146b1d5b877b.png).
+One sentence I want to say: Reading does help, it gives me many inspirations. I am sure I will keep going.
 
 ##4 Books
 We have 4 books here, for each book, we collect 4 reviews form amazon.
