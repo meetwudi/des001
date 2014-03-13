@@ -2,7 +2,10 @@
 _Recommanded books on design_
 
 ##Quote
-Everything has been composed, just not yet written down. - LETTER TO LEOPOLD MOZART [1780]
+Everything has been composed, just not yet written down. - _LETTER TO LEOPOLD MOZART [1780]_
+
+##My avatar
+[Here is my avatar url](http://www.gravatar.com/avatar/1380392c951c5d3edc96146b1d5b877b.png)
 
 ##Books
 We have 4 books here, for each book, we collect 4 reviews form amazon.
