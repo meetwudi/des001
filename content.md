@@ -1,13 +1,13 @@
-##Title
+##1 Title
 _Recommanded books on design_
 
-##Quote
+##2 Quote
 Everything has been composed, just not yet written down. - _LETTER TO LEOPOLD MOZART [1780]_
 
-##My avatar
+##3 My info
 [Here is my avatar url](http://www.gravatar.com/avatar/1380392c951c5d3edc96146b1d5b877b.png)
 
-##Books
+##4 Books
 We have 4 books here, for each book, we collect 4 reviews form amazon.
 
 ####_The Design of Design_

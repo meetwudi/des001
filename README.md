@@ -14,3 +14,5 @@ First, I would like to write down all items to be show off on the page.
 - My name & My avatar (John Wu & avatar: webmaster@leapoahead.com)
 
 Because it is hard to collect the authors' facebook/twitter/email address, so we will just use placeholder for those information. The detailed content describtions will be in [content.md](content.md).
+
+###Step 3: Wireframes
