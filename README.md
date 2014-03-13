@@ -23,3 +23,7 @@ The next step I did is to organize informations I just collected in the Step 2. 
 
 ###Step 5: Wireframes for breakpoints
 For now, I will just create one breakpoint, 768px. For all viewport width < 768px, the [mobile wireframe](wireframe/mobile-wireframe.jpg) will be adapted. Otherwise, the [original wireframe](wireframe/wireframe.jpg) designed for all viewport width >= 768px will be adapted.
+
+###Step 6: Design for various breakpoints
+Then, it is time to create a more concreate design for various breakpoints (only two of them to do here, though).  
+So don't forget to sketch. I choose to use pencil and paper, instead of using tools like AI.
