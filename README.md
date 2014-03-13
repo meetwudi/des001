@@ -20,3 +20,6 @@ I created wireframes with [OmniGraffle](www.omnigroup.com/omnigraffle/), which i
 
 ###Step 4: Make content structured
 The next step I did is to organize informations I just collected in the Step 2. I used [pandoc](http://johnmacfarlane.net/pandoc) to convert the [structured_content.md](structured_content/structured_content.md) into a [working html copy](structured_content/structured_content.html)
+
+###Step 5: Wireframes for breakpoints
+For now, I will just create one breakpoint, 768px. For all viewport width < 768px, the [mobile wireframe](wireframe/mobile-wireframe.jpg) will be adapted. Otherwise, the [original wireframe](wireframe/wireframe.jpg) designed for all viewport width >= 768px will be adapted.
