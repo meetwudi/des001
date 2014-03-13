@@ -24,7 +24,7 @@ Reviews:
 Basic info:
 
 - Author: Robin Williams
-- [Cover image](content/b-the-non-designer-design-book.jpg)
+- [Cover image](content/b-the-non-designer-design-book.jpeg)
 
 Reviews:
 
