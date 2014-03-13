@@ -11,7 +11,7 @@ One sentence I want to say: Reading does help, it gives me many inspirations. I 
 ##4 Books
 We have 4 books here, for each book, we collect 4 reviews form amazon.
 
-####_The Design of Design_
+####4.1 _The Design of Design_
 Basic info: 
 
 - Author: Frederick P. Brooks, Jr. 
@@ -24,7 +24,7 @@ Reviews:
 - _If you love computers you will cherish this book._ (Reg Nordman)
 - _I really recommend it for everyone involved in the product development process._ (Alexander T. Gafford)
 
-####The Non-Designer's Design Book
+####4.2 The Non-Designer's Design Book
 Basic info:
 
 - Author: Robin Williams
@@ -37,7 +37,7 @@ Reviews:
 - _After finishing the book tonight, I set out to improve my resume._ (Brian Williammee)
 - _This is a good book with lots of practical advice._ （anonymous）
 
-####Undercover User Experience Design
+####4.3 Undercover User Experience Design
 Basic info:
 
 - Author: Cennydd Bowles
@@ -51,7 +51,7 @@ Reviews:
 - _A concise and well illustrated guide to User Experience Design_ (Matt)
 
 
-####The User Experience Team of One
+####4.4 The User Experience Team of One
 Basic info:
 
 - Author: Leah Buley
@@ -63,3 +63,10 @@ Reviews:
 - _Great introduction to all the aspects, techniques, and philosophy of what the term UX means today._ (Eduardo)Iturrate
 - _You may recognize a lot of the techniques, and most of them are geared for quick and dirty implementation._ (Laura-Jane Cunningham)
 - _Fantastic book for both experienced and new UX designers._ (Caryn Law)
+
+##5 Footer note
+#### Share to social media
+Facebook, twitter ... 
+#### Text
+These books are recommanded by John Wu and <3  
+Wish you enjoyable reading
