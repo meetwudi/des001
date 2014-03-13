@@ -27,3 +27,5 @@ For now, I will just create one breakpoint, 768px. For all viewport width < 768p
 Then, it is time to create a more concreate design for various breakpoints (only two of them to do here, though).  
 So don't forget to sketch. I choose to use pencil and paper, instead of using tools like AI.  
 ![sketch](sketch/sketch.jpg)
+
+###To be continued
