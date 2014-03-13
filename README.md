@@ -16,3 +16,4 @@ First, I would like to write down all items to be show off on the page.
 Because it is hard to collect the authors' facebook/twitter/email address, so we will just use placeholder for those information. The detailed content describtions will be in [content.md](content.md).
 
 ###Step 3: Wireframes
+I created wireframes with [OmniGraffle](www.omnigroup.com/omnigraffle/), which is a great tool to work with. 
