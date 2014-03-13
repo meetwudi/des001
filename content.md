@@ -64,9 +64,7 @@ Reviews:
 - _You may recognize a lot of the techniques, and most of them are geared for quick and dirty implementation._ (Laura-Jane Cunningham)
 - _Fantastic book for both experienced and new UX designers._ (Caryn Law)
 
-##5 Footer note
-#### Share to social media
-Facebook, twitter ... 
+##5 Footer note=
 #### Text
 These books are recommanded by John Wu and <3  
 Wish you enjoyable reading
