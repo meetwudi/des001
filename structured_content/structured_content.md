@@ -10,7 +10,7 @@ by [John Wu](http://github.com/tjwudi)
 Basic info: 
 
 - Author: Frederick P. Brooks, Jr. 
-- [Cover image](content/b-the-design-of-design.jpg)
+- ![Cover image](../content/b-the-design-of-design.jpg)
 
 Reviews:
 
@@ -19,11 +19,11 @@ Reviews:
 - _If you love computers you will cherish this book._ (Reg Nordman)
 - _I really recommend it for everyone involved in the product development process._ (Alexander T. Gafford)
 
-####The Non-Designer's Design Book
+####_The Non-Designer's Design Book_
 Basic info:
 
 - Author: Robin Williams
-- [Cover image](content/b-the-non-designer-design-book.jpeg)
+- ![Cover image](../content/b-the-non-designer-design-book.jpeg)
 
 Reviews:
 
@@ -32,11 +32,11 @@ Reviews:
 - _After finishing the book tonight, I set out to improve my resume._ (Brian Williammee)
 - _This is a good book with lots of practical advice._ （anonymous）
 
-####Undercover User Experience Design
+####_Undercover User Experience Design_
 Basic info:
 
 - Author: Cennydd Bowles
-- [Cover image](content/b-undercover-ux-design.jpg)
+- ![Cover image](../content/b-undercover-ux-design.jpg)
 
 Reviews:
 
@@ -46,11 +46,11 @@ Reviews:
 - _A concise and well illustrated guide to User Experience Design._ (Matt)
 
 
-####The User Experience Team of One
+####_The User Experience Team of One_
 Basic info:
 
 - Author: Leah Buley
-- [Cover image](content/b-ux-team-of-one.jpg)
+- ![Cover image](../content/b-ux-team-of-one.png)
 
 Reviews:
 
